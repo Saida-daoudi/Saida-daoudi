@@ -59,9 +59,9 @@
 
 ## 💬 Let's Connect!
 📩 Feel free to reach out for collaboration & networking:  
-- 🔗 Instagram: [your_instagram](https://www.instagram.com/learntocode2025?igsh=a2g3aGl6ZjhreXky)  
-- 🔗 GitHub: [your_github](https://github.com/Saida-daoudi)  
-- 🔗 LinkedIn: [your_linkedin](https://www.linkedin.com/in/saida-ed-daoudi-24297229b/)
+- 🔗 Instagram: [instagram](https://www.instagram.com/learntocode2025?igsh=a2g3aGl6ZjhreXky)  
+- 🔗 GitHub: [Github](https://github.com/Saida-daoudi)  
+- 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/saida-ed-daoudi-24297229b/)
 
 ---
 
